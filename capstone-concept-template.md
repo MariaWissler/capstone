@@ -1,6 +1,6 @@
 # Capstone Concept - Maria Wissler
 
-## Problem Statement #1
+## Problem Statement 
 
 A Cup of Sugar looks to take back the old days where neighbors borrowing from neighbors was once a commonplace practice, part of the web of relations we once had with those who lived within close range, this app branches after Buy Nothing from facebook, focusing mainly in produce and other food items that constantly go to waste. A user is able to request or give produce or other food items(in good condition) after filling up an "honor(+id)" form and is able to see and request items within a reasonable range from work or home, looking to share more and waste less
 
