@@ -49,3 +49,4 @@ Expand to different products
 
 ## Additional content, diagrams, wireframes, user flows, etc.
 Work in Progress 
+![alt tag]( project_stack.png "Stack")
