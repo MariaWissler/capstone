@@ -49,4 +49,6 @@ Expand to different products
 
 ## Additional content, diagrams, wireframes, user flows, etc.
 Work in Progress 
-![]( https://github.com/MariaWissler/capstone/blob/master/project_stack.png =250x250 "Stack")
+<p align="left">
+  <img width="460" height="300" src="https://github.com/MariaWissler/capstone/blob/master/project_stack.png">
+</p>
